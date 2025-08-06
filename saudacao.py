@@ -8,3 +8,5 @@ idade = input("Quantos anos você tem? ")
 
 # Exibe a mensagem personalizada
 print("Olá, " + nome + "! Você tem " + idade + " anos.")
+
+print("commit2")
