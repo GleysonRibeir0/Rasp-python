@@ -12,6 +12,8 @@ if total == 11:
 if throw_1 == throw_2:
      print('double thrown!')
 
+print("feature1")
+
 
 
     
